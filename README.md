@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thepbordin
+- 👀 I’m interested in Computer Programming, Graphic Designs
+- 🌱 I’m currently learning Python, Java
